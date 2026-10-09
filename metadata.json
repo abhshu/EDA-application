@@ -1,0 +1,6 @@
+{
+  "name": "Veritas EDA Studio",
+  "description": "Interactive 8-step Exploratory Data Analysis studio with Python code execution, inline statistical visualizations, and Google Drive dataset integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
